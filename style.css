@@ -1,0 +1,50 @@
+#cad h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 45%;
+}
+#cad form{
+    font-family: 'Arial';
+    align-items: stretch;
+    display: block;
+    justify-content: center;
+    background-color: rgb(20, 112, 59);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+    width:30%;
+    margin-left: 35%;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    border: 1px solid black;
+    line-height: 15px;
+    line-break: strict;
+}
+.caddd label {
+    display:block;
+    font-size: 15px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+}
+
+.inputsla {
+    display: block;
+    margin: 0 0 20px;
+    width: 50%;
+    padding: 10px;
+
+}
+.enviar {
+    width:120px;
+    padding: 15px 0;
+    background: #11013e;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    margin: 0 auto;
+}
